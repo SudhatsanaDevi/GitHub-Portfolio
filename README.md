@@ -2,7 +2,7 @@
 
 - Pre final year student
 - I love building responsive and User-friendly web applications
-- Fond of Python
+- Fond of Python & Java
 
 # Projects 
 
