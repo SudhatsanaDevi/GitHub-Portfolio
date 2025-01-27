@@ -1,8 +1,8 @@
 # I'm Sudhatsanadevi
 
-Pre final year student
-I love building responsive and User-friendly web applications
-Fond of Python
+- Pre final year student
+- I love building responsive and User-friendly web applications
+- Fond of Python
 
 # Projects 
 
