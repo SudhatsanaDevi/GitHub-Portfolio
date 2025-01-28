@@ -24,4 +24,4 @@ Python, Object-Oriented Programming, Logic Building
 
 # Check out my Resume
 
-[Resume](https://docs.google.com/document/d/1ErJaltUHswxSCw34NAtADfKDgUBBCuRY/edit?usp=drivesdk&ouid=116496501447122840850&rtpof=true&sd=true)
+[Resume](https://docs.google.com/document/d/1H71m4K8LTsP0jSL7mzIpJwUkdLTts4mF/)
