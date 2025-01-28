@@ -20,4 +20,8 @@ Boundary handling to keep the robot within defined limits.
 - Skills Utilized:
 Python, Object-Oriented Programming, Logic Building
 
-[GitHub Link](https://github.com/SudhatsanaDevi/Classroominspectionrobot)
+[GitHub Link](https://github.com/SudhatsanaDevi/Classroominspectionrobot) 
+
+# Check out my Resume
+
+[Resume](https://docs.google.com/document/d/1ErJaltUHswxSCw34NAtADfKDgUBBCuRY/edit?usp=drivesdk&ouid=116496501447122840850&rtpof=true&sd=true)
